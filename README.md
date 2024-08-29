@@ -6,7 +6,7 @@ This project is designed to develop a real-time streaming system for monitoring 
 
 ## System Architecture
 
-<img width="732" alt="architecture" src="https://github.com/user-attachments/assets/6044bce1-6bdc-4e5e-b4bc-14e329692192">
+<img width="762" alt="architecture" src="https://github.com/user-attachments/assets/9f62f8f4-6a1a-4985-96f6-c6527b8fbdb3">
 
 The architecture is designed to ensure seamless data generation, ingestion, processing, storage, and analysis. Below is a detailed breakdown of the components involved:
 
